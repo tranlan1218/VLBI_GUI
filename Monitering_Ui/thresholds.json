@@ -1,0 +1,68 @@
+{
+    "frontend_2ghz": {
+        "NormalTemp_RF": {
+            "lower_yellow": 0.0,
+            "lower_red": 0.0,
+            "upper_yellow": 20.0,
+            "upper_red": 24.0
+        },
+        "NormalTemp_Load": {
+            "lower_yellow": null,
+            "lower_red": null,
+            "upper_yellow": 300.0,
+            "upper_red": 350.0
+        },
+        "Cryo_ColdPlate": {
+            "lower_yellow": 30.0,
+            "lower_red": 25.0,
+            "upper_yellow": 35.0,
+            "upper_red": 40.0
+        },
+        "NormalTemp_Noise": {
+            "lower_yellow": null,
+            "lower_red": null,
+            "upper_yellow": 22.0,
+            "upper_red": 23.0
+        },
+        "Cryo_ShieldBox": {
+            "lower_yellow": 40.0,
+            "lower_red": 35.0,
+            "upper_yellow": 50.0,
+            "upper_red": 60.0
+        },
+        "LNA_LHCP_Id1": {
+            "lower_yellow": 1.0,
+            "lower_red": 0.0,
+            "upper_yellow": 1.2,
+            "upper_red": 1.4
+        },
+        "LNA_RHCP_Vd1": {
+            "lower_yellow": 1.0,
+            "lower_red": 0.5,
+            "upper_yellow": 1.2,
+            "upper_red": 1.4
+        },
+        "Cryo_ColdPla": {
+            "lower_yellow": 30.0,
+            "lower_red": 25.0,
+            "upper_yellow": 35.0,
+            "upper_red": 40.0
+        }
+    },
+    "frontend_8ghz": {
+        "NormalTemp_RF": {
+            "lower_yellow": 20.0,
+            "lower_red": 18.0,
+            "upper_yellow": 21.0,
+            "upper_red": 25.0
+        }
+    },
+    "frontend_22ghz": {
+        "NormalTemp_RF": {
+            "lower_yellow": 28.0,
+            "lower_red": 26.0,
+            "upper_yellow": 30.0,
+            "upper_red": 32.0
+        }
+    }
+}
